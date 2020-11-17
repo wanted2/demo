@@ -1,0 +1,19 @@
+- name: Python
+  percentage: 90
+  color: danger
+
+- name: C/C++
+  percentage: 80
+  color:
+
+- name: PHP
+  percentage: 70
+  color: secondary
+
+- name: Java
+  percentage: 70
+  color: secondary
+
+- name: MATLAB/Octave/Scilab
+  percentage: 80
+  color:
