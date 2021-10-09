@@ -17,3 +17,15 @@
 - name: MATLAB/Octave/Scilab
   percentage: 80
   color:
+
+- name: Scala
+  percentage: 50
+  color:
+
+- name: Golang
+  percentage: 50
+  color:
+
+- name: Javascript
+  percentage: 50
+  color:
