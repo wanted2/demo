@@ -1,10 +1,10 @@
 - name: Python
-  percentage: 90
-  color: danger
+  percentage: 95
+  color: success
 
 - name: C/C++
-  percentage: 80
-  color:
+  percentage: 90
+  color: success
 
 - name: PHP
   percentage: 70
@@ -16,7 +16,7 @@
 
 - name: MATLAB/Octave/Scilab
   percentage: 80
-  color:
+  color: secondary
 
 - name: Scala
   percentage: 50

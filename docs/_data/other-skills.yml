@@ -1,7 +1,32 @@
 - name: Amazon Web Service
   percentage: 95
-  color: info
+  color: success
 
 - name: Azure Cloud
   percentage: 60
+  color: info
+
+- name: Artificial Intelligence
+  percentage: 80
+  color: info
+
+- name: Computer Vision
+  percentage: 90
   color: success
+
+- name: Machine Learning
+  percentage: 75
+  color: info
+
+- name: Latex
+  percentage: 80
+  color: info
+
+- name: Project Management/Agile/Scrum Development
+  percentage: 75
+  color: info
+
+
+- name: DevOps/MLOps/DevSecOps
+  percentage: 75
+  color: info
