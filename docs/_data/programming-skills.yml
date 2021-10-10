@@ -8,24 +8,24 @@
 
 - name: PHP
   percentage: 70
-  color: secondary
+  color: info
 
 - name: Java
   percentage: 70
-  color: secondary
+  color: info
 
 - name: MATLAB/Octave/Scilab
   percentage: 80
-  color: secondary
+  color: info
 
 - name: Scala
   percentage: 50
-  color:
+  color: info
 
 - name: Golang
   percentage: 50
-  color:
+  color: info
 
 - name: Javascript
   percentage: 50
-  color:
+  color: info

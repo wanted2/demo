@@ -18,7 +18,7 @@
   percentage: 75
   color: info
 
-- name: Latex
+- name: LaTeX
   percentage: 80
   color: info
 
