@@ -30,7 +30,7 @@ This project builds an interactive and virtual chatbot using AWS Sumerian + Lex 
 
 ### Source code
 
-[https://bitbucket.org/aifi-cicd/demo-implementations/src/main/](https://bitbucket.org/aifi-cicd/demo-implementations/src/main/)
+[https://bitbucket.org/caineng-inc-admin/demo-implementations-public/src/main/](https://bitbucket.org/caineng-inc-admin/demo-implementations-public/src/main/)
 
 ### Backlog (all-in-one)
 

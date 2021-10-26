@@ -28,7 +28,7 @@ This project builds an interactive chatbot with cloud-based speech recognition t
 
 ### Source code
 
-[https://bitbucket.org/aifi-cicd/demo-implementations/src/main/](https://bitbucket.org/aifi-cicd/demo-implementations/src/main/)
+[https://bitbucket.org/caineng-inc-admin/demo-implementations-public/src/main/](https://bitbucket.org/caineng-inc-admin/demo-implementations-public/src/main/)
 
 ### Backlog (all-in-one)
 
